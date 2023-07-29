@@ -1,0 +1,23 @@
+html,
+body {
+    height:100%;
+}
+body {
+    background:url(...);
+    background-size:cover;
+}
+.form-login {
+    background:rgba(236,240,241,.35);
+    border-radius:10px;
+    max-width:450px;
+    margin:auto;
+    padding:20px;
+    width:100%;
+}
+.btn-primary {
+    background:purple;
+    border:0;
+}
+.btn-primary:hover{
+    background:pink;
+}
